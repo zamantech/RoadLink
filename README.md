@@ -22,6 +22,9 @@ RoadLink is a django based vehicle management system
 
 # Instructions to run the app 
 
+Install **GTK3** as required for **WeasyPrint**
+https://doc.courtbouillon.org/weasyprint/stable/first_steps.html
+
 - Clone the repository 
 
 ```
